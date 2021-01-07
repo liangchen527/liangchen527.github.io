@@ -1,37 +1,39 @@
-Liang Chen
+## Liang Chen
 
-You can use the [editor on GitHub](https://github.com/LiamChen7at/chenliang.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## 陈亮
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Graduated with a master degree from East China Normal University.
 
-### Markdown
+Email: liangchen527@gmail.com
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Biography
 
-```markdown
-Syntax highlighted code block
+I received my M.Eng degree from East China Normal University (ECNU) in 2019, supervised by prof. [Faming Fang](https://scholar.google.com/citations?user=TSkJe-4AAAAJ&hl=zh-CN). I have done some work on computation photography tasks using traditional optimizationbased methods. Now I'm looking forward to use more efficient approaches (e.g. learning-based) to solve more realistic problems.
 
-# Header 1
-## Header 2
-### Header 3
+## News
 
-- Bulleted
-- List
+- [07/2020] Two papers accepted to ECCV 2020.
 
-1. Numbered
-2. List
+- [03/2019] One paper accepted to CVPR 2019.
 
-**Bold** and _Italic_ and `Code` text
+## Publications
 
-[Link](url) and ![Image](src)
-```
+[Google Scholar](https://scholar.google.com/citations?user=ZRd8xLIAAAAJ&hl=zh-CN)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+- OID: Outlier Identifying and Discarding in Blind Image Deblurring, 
 
-### Jekyll Themes
+  **Liang Chen**, Faming Fang, Jiawei Zhang, Jun Liu and Guixu Zhang,
+  
+  in the Proceedings of European Conference on Computer Vision (**ECCV**), 2020.
+  
+- Enhanced Sparse Model for Blind Deblurring,
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LiamChen7at/chenliang.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  **Liang Chen**, Faming Fang, Shen Lei, Fang Li and Guixu Zhang,
+  
+  in the Proceedings of European Conference on Computer Vision (**ECCV**), 2020.
+  
+- Blind Image Deblurring with Local Maximum Gradient Prior,
+ 
+  **Liang Chen**, Faming Fang, Tingting Wang and Guixu Zhang,
+  
+  in the Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
