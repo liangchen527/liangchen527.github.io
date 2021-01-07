@@ -26,17 +26,23 @@ I received my M.Eng degree from East China Normal University (ECNU) in 2019, sup
   
   in the Proceedings of European Conference on Computer Vision (**ECCV**), 2020.
   
+  [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700596.pdf) [code] (coming soon)
+  
 - Enhanced Sparse Model for Blind Deblurring,
 
   **Liang Chen**, Faming Fang, Shen Lei, Fang Li and Guixu Zhang,
   
   in the Proceedings of European Conference on Computer Vision (**ECCV**), 2020.
   
+  [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.pdf) [code] (coming soon)
+  
 - Blind Image Deblurring with Local Maximum Gradient Prior,
  
   **Liang Chen**, Faming Fang, Tingting Wang and Guixu Zhang,
   
   in the Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
+  
+  [paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf) [code] (coming soom)
   
 ## Work Experience
 
