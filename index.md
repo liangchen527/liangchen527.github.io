@@ -34,7 +34,7 @@ I received my M.Eng degree from East China Normal University (ECNU) in 2019, sup
   
   in the Proceedings of European Conference on Computer Vision (**ECCV**), 2020.
   
-  [paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.pdf) [code] (coming soon)
+  [[paper]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Chen_Blind_Image_Deblurring_With_Local_Maximum_Gradient_Prior_CVPR_2019_paper.pdf) [code] (coming soon)
   
 - Blind Image Deblurring with Local Maximum Gradient Prior,
  
@@ -42,7 +42,7 @@ I received my M.Eng degree from East China Normal University (ECNU) in 2019, sup
   
   in the Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
   
-  [paper](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf) [code] (coming soom)
+  [[paper]](http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700630.pdf) [code] (coming soom)
   
 ## Work Experience
 
