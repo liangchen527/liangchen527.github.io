@@ -26,7 +26,7 @@ I received my M.Eng degree from East China Normal University (ECNU) in 2019, sup
   
   in the Proceedings of European Conference on Computer Vision (**ECCV**), 2020.
   
-  [paper](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700596.pdf) [code] (coming soon)
+  [[paper]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123700596.pdf) [code] (coming soon)
   
 - Enhanced Sparse Model for Blind Deblurring,
 
