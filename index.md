@@ -37,3 +37,15 @@ I received my M.Eng degree from East China Normal University (ECNU) in 2019, sup
   **Liang Chen**, Faming Fang, Tingting Wang and Guixu Zhang,
   
   in the Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (**CVPR**), 2019.
+  
+## Work Experience
+
+   **Research intern**
+   
+   10.2019-09.2020, Sensetime research, Shenzhen, China
+   
+   Working with Doc. [Jiawei Zhang](https://sites.google.com/site/zhjw1988) and Doc. [Jimmy S. Ren](http://www.jimmyren.com/)
+   
+   **Served**
+   
+   12.2012-12.2014, Chinese Armed Police Force, Urumchi, China
