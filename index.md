@@ -1,4 +1,4 @@
-## Liang Chen
+## Liang Chen  
 
 ## 陈亮
 
@@ -49,3 +49,11 @@ I received my M.Eng degree from East China Normal University (ECNU) in 2019, sup
    **Served**
    
    12.2012-12.2014, Chinese Armed Police Force, Urumchi, China
+   
+## Awards
+
+- Outstanding graduate of Shanghai city in 2020.
+
+- Outstanding master’s thesis of East China Normal University in 2020.
+
+- National scholarship for post-graduate students in 2019.
