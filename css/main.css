@@ -203,6 +203,9 @@ template {
 .clearfix:after {
   clear: both;
 }
+ul {
+  padding-inline-start: 20px;
+}
 a {
   color: #2196f3 !important;
   text-decoration: none;
@@ -253,7 +256,7 @@ body {
   }
 }
 #main {
-  padding: 0 30px 0 30px;
+  padding: 30px 30px 0 30px;
 }
 @media (max-width: 767px) {
   #main {
@@ -362,7 +365,7 @@ body {
   border-bottom: 1px solid #ccc;
 }
 #header {
-  padding: 50px 50px 0;
+  padding: 30px 30px 0;
   text-shadow: 1px 1px 5px #d3d3d3;
 }
 @media (max-width: 767px) {
@@ -642,7 +645,7 @@ body {
   text-align: justify;
   line-height: 1.7;
   word-wrap: break-word;
-  padding: 20px 0 0 20px;
+  padding: 0px 0 0 20px;
 }
 .post-content em a {
   border-bottom: 1px dashed #e0e0e0;
