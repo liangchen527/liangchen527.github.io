@@ -776,10 +776,14 @@ body {
   position: relative;
   padding: 50px;
   text-shadow: 1px 1px 5px #d3d3d3;
+  pointer-events: none !important;
 }
 #footer .copyright {
   margin: 1vh auto 0 auto;
   width: fit-content;
+}
+#footer #clustrmaps {
+  pointer-events: none !important;
 }
 @media (max-width: 767px) {
   #footer {

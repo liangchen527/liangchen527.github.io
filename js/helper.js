@@ -25,3 +25,8 @@
   }
 
 })(jQuery);
+
+window.onload = function() {
+  console.log('load done');
+  $("#clustrmaps-widget-v2").attr("disabled",true).css("pointer-events","none");
+};
