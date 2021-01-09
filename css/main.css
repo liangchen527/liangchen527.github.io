@@ -644,7 +644,7 @@ body {
 .post:hover a {
   color: #212121;
 }
-.post:hover h1 {
+.post:hover h2 {
   border-color: #2196f3;
 }
 .post-content {
